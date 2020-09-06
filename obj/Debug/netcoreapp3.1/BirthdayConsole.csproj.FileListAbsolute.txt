@@ -1,0 +1,13 @@
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.exe
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.deps.json
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.runtimeconfig.json
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.runtimeconfig.dev.json
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.dll
+C:\Users\Luis\C#\BirthdayConsole\bin\Debug\netcoreapp3.1\BirthdayConsole.pdb
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.csprojAssemblyReference.cache
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.AssemblyInfoInputs.cache
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.AssemblyInfo.cs
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.csproj.CoreCompileInputs.cache
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.dll
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.pdb
+C:\Users\Luis\C#\BirthdayConsole\obj\Debug\netcoreapp3.1\BirthdayConsole.genruntimeconfig.cache
