@@ -44,14 +44,32 @@ namespace BirthdayConsole
          // We create an if else code block that will compare our input day and month with the current day and month
          // so if it meets the same values it says "Happy Birthday"
 
-          if (inputDay == actualDay  && inputMonth == actualMonth)
+         if (inputDay == actualDay && inputMonth == actualMonth)
          {
              Console.WriteLine("Happy Birthday "+ userName + " you are " + age + " years old" );
          }
 
-         else
+         else if (inputDay < actualDay && inputMonth <= actualMonth)
          {
-             Console.WriteLine("Hi " + userName + " you are " + age + " years old");
+            
+             Console.WriteLine("Hello " + userName + " you are " + age + " years old");
+         }
+        
+         else if (inputDay > actualDay && inputMonth == actualMonth)
+         {
+             age --;
+             Console.WriteLine("Hello " + userName + " you are " + age + " years old");
+         }
+
+         else if (inputMonth < actualMonth)
+         {
+             Console.WriteLine("Hello " + userName + " you are " + age + " years old");
+         }
+
+         else if (inputMonth > actualMonth)
+         {
+             age --;
+             Console.WriteLine("Hello " + userName + " you are " + age + " years old");
          }
 
            // ask the user if they want to quit
